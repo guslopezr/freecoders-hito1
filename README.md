@@ -1,8 +1,5 @@
 ### Integrantes Proyecto Freecoders:
--Alejandro Quiñones
--Cristobal Díaz
--David Pirul
--Gustavo López
+Alejandro Quiñones, Cristobal Díaz, David Pirul y Gustavo López
 
 ### Leer antes de calificar
 El proyecto contiene funcionalidades de Frontend necesarias para recorrer las vistas.
@@ -11,4 +8,4 @@ La responsividad no ha sido depurada completamente. Esto se completará en el De
 
 
 ### Acceso a repositorio
-https://login-design-react.netlify.app
+pendiente
