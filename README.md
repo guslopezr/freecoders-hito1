@@ -8,4 +8,4 @@ La responsividad no ha sido depurada completamente. Esto se completará en el De
 
 
 ### Acceso a repositorio
-pendiente
+https://proyecto-freecoders-hito1.netlify.app/
