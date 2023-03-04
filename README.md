@@ -11,11 +11,11 @@ El frontend considera el uso de la fuente Consolas, la cual eventualmente podrí
 De ser el caso, recomendamos instalarla descargándola desde este link: https://www.fontpalace.com/font-details/Consolas/
 
 ## Vista Home
-    [Ver Home](home.png)
+[Ver Home](home.png)
 
 ## Vista Formulario
 
-    [Ver Form](form.png)
+[Ver Form](form.png)
 
 
 ### Acceso a repositorio
