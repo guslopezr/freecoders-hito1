@@ -1,4 +1,4 @@
-### Integrantes Proyecto Freecoders:
+## Integrantes Proyecto Freecoders:
 Alejandro Quiñones, Cristobal Díaz, David Pirul y Gustavo López
 
 ### Leer antes de calificar
@@ -10,10 +10,10 @@ La responsividad no ha sido depurada completamente. Esto se completará en el De
 El frontend considera el uso de la fuente Consolas, la cual eventualmente podría no estar en la máquina donde se visualiza.
 De ser el caso, recomendamos instalarla descargándola desde este link: https://www.fontpalace.com/font-details/Consolas/
 
-## Vista Home
+### Vista Home
 [Ver Home](home.png)
 
-## Vista Formulario
+### Vista Formulario
 
 [Ver Form](form.png)
 
