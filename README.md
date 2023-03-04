@@ -10,10 +10,8 @@ La responsividad no ha sido depurada completamente. Esto se completará en el De
 El frontend considera el uso de la fuente Consolas, la cual eventualmente podría no estar en la máquina donde se visualiza.
 De ser el caso, recomendamos instalarla descargándola desde este link: https://www.fontpalace.com/font-details/Consolas/
 
-### Vista Home
+### Imágenes de previsualización
 [Ver Home](home.png)
-
-### Vista Formulario
 
 [Ver Form](form.png)
 
