@@ -5,6 +5,7 @@ import Home from './views/Home'
 import Busqueda from './views/Busqueda'
 import './components/styles/App.css'
 import CrearPerfil from './views/CrearPerfil'
+import MisSolicitudes from './views/Mis Solicitudes'
 import PerfilFreecoder from "./views/PerfilFreecoder"
 import ContactarFreecoder from "./views/ContactarFreecoder"
 import CrearPropuesta from "./views/CrearPropuesta"
@@ -30,6 +31,7 @@ const App = () => {
             <Route path='/busqueda' element={<Busqueda />} />
             <Route path='/perfilfreecoder' element={<PerfilFreecoder />} />
             <Route path='/crearperfil' element={<CrearPerfil/>} />
+            <Route path='/missolicitudes' element={<MisSolicitudes/>} />
             <Route path="/contactarfreecoder" element={<ContactarFreecoder />} />
             <Route path="/crearpropuesta" element={<CrearPropuesta />} />
             <Route path="/abonarpropuesta" element={<AbonarPropuesta />} />

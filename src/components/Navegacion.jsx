@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
 import "./styles/navegacion.css";
 
+
 const changing = ({ isActive }) => (isActive ? "isActive" : "mainNavBar");
 
 const Navegacion = () => {
@@ -8,6 +9,9 @@ const Navegacion = () => {
     <div className="mainNavBarContainer">
       <NavLink to="/crearperfil" className={changing}>
         Crear Perfil
+      </NavLink>
+      <NavLink to="/missolicitudes" className={changing}>
+        Mis Solicitudes
       </NavLink>
       <NavLink to="/perfilfreecoder" className={changing}>
         Perfil

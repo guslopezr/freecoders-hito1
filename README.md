@@ -15,6 +15,5 @@ De ser el caso, recomendamos instalarla descargándola desde este link: https://
 
 [Ver Form](form.png)
 
-
 ### Acceso a repositorio
 https://proyecto-freecoders-hito1.netlify.app/
